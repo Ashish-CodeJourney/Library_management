@@ -22,3 +22,6 @@ To run the application, follow these steps:
 
    ```bash
    javac Library_management.java
+5. run the class file using 'java' command:
+   ```bash
+   java Library_management
